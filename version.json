@@ -1,8 +1,4 @@
 {
-  "latest_version": "1.0.1",
-  "min_supported_version": "1.0.0",
-  "force_update": false,
-  "release_notes": "• Bug fixes and performance improvements\n• New expense categories\n• Improved group settlement flow",
-  "apk_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.1/app-release.apk",
-  "store_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest"
+  "version": "1.0.2",
+  "apk_url": "https://github.com/USERNAME/billify-updates/raw/main/latest.apk"
 }
