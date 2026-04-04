@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
-  "force_update": false,
+  "version": "1.0.2",
+  "build_number": 3,
+  "force_update": true,
   "changelog": "• Bug fixes\n• Performance improvements\n• Live chat feature",
-  "download_url": "https://github.com/Vk-25/book-updates/releases/download/v1.0.1/My.Book.apk"
+  "download_url": "https://github.com/Vk-25/book-updates/releases/download/latest_version/My-Book-v1.0.2.apk"
 }
