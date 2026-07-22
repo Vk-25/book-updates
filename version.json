@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build_number": 7,
+  "version": "1.0.7",
+  "build_number": 8,
   "force_update": true,
-  "changelog": "• avatar widget, profile edit enhancements, ui, notification redirection, push payload updates, settings ui improvements, settlement confirmation logic, bill image attachments, theme persistence, chat reply, swipe to reply, settlement reminder, version bump",
+  "changelog": "• improve personal finanace",
   "download_url": "https://github.com/Vk-25/book-updates/releases/download/latest_version/My-Book-Latest.apk"
 }
