@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "build_number": 8,
+  "version": "1.0.8",
+  "build_number": 9,
   "force_update": true,
-  "changelog": "• improve personal finanace",
+  "changelog": "• contacts, invite, notifications, placeholder migration, structure",
   "download_url": "https://github.com/Vk-25/book-updates/releases/download/latest_version/My-Book-Latest.apk"
 }
