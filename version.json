@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "build_number": 13,
+  "version": "1.0.13",
+  "build_number": 14,
   "force_update": true,
-  "changelog": "• Friends screen, notifications, ui, redirection, logic, settlement, multi-book selection, ui, profile bugfix",
+  "changelog": "• share app, Database structure change, bug fix, ui/ux improvement",
   "download_url": "https://github.com/Vk-25/book-updates/releases/download/latest_version/My-Book-Latest.apk"
 }
