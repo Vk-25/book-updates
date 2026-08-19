@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "build_number": 15,
+  "version": "1.0.15",
+  "build_number": 16,
   "force_update": true,
-  "changelog": "• now able to see your settlement history, enhance ui friend section, now able to send reminder to friend",
+  "changelog": "• something new, widget, bug fix, chat with friends, filter analytics",
   "download_url": "https://github.com/Vk-25/book-updates/releases/download/latest_version/My-Book-Latest.apk"
 }
